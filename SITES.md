@@ -45,4 +45,5 @@
 * [mutoe 木头的博客](https://blog.mutoe.com/)
 * [greengriim] (https://greengriim.netlify.com/)
 * [Ron Dias](http://blog.ronjdias.com)
+* [publiuslogic](http://publiuslogic.com)
 * [Sample Space](https://space.lahvak.space)
